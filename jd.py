@@ -1,3 +1,4 @@
+import os
 import time
 import random
 
@@ -6,9 +7,14 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 option = webdriver.ChromeOptions()
 # 添加保持登录的数据路径：
-option.add_argument(r"user-data-dir=C:\Users\2019\AppData\Local\Google\Chrome\User Data")
+# option.add_argument(r"user-data-dir=C:\Users\2019\AppData\Local\Google\Chrome\User Data")
+# 判断文件夹是否存在，不存在则创建
+dirs1 = 'D:\\history'
+if not os.path.exists(dirs1):
+    os.makedirs(dirs1)
+option.add_argument(r"user-data-dir=D:\1\新建文件夹")
 # option.add_argument('headless')
-chrome_driver = r"C:\Users\2019\AppData\Local\Programs\Python\Python36\chromedriver.exe"
+chrome_driver = r"D:\1\chromedriver.exe"
 # 初始化driver
 driver = webdriver.Chrome(chrome_driver, chrome_options=option)
 driver.get('https://product.shop.jd.com/rest/ware/list/manage?wareStatusStr=onSale&firstQuery=1')

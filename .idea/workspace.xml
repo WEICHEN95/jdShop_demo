@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68b32e45-e8d0-45a7-92c2-62048f39a198" name="Default Changelist" comment="" />
+    <list default="true" id="68b32e45-e8d0-45a7-92c2-62048f39a198" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd.py" beforeDir="false" afterPath="$PROJECT_DIR$/jd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f9pQRuXpAMeYuK9dzrt7akB0UF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,11 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.config">
+  <component name="RunManager" selected="Python.jd (1)">
     <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jdShop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.config" />
         <item itemvalue="Python.jd (1)" />
+        <item itemvalue="Python.config" />
         <item itemvalue="Python.detect_video (1)" />
         <item itemvalue="Python.detect_video" />
         <item itemvalue="Python.jd" />
@@ -167,7 +177,7 @@
       <workItem from="1596440039523" duration="6454000" />
       <workItem from="1596507531261" duration="292000" />
       <workItem from="1596771737968" duration="10171000" />
-      <workItem from="1596790996591" duration="320000" />
+      <workItem from="1596790996591" duration="5023000" />
     </task>
     <servers />
   </component>
@@ -187,46 +197,54 @@
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
     <state x="2660" y="208" key="FileChooserDialogImpl/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596507818789" />
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1596790823084">
+    <state x="2752" y="351" key="Github.ShareDialog" timestamp="1596791558883">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state x="2752" y="351" key="Github.ShareDialog/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596791558883" />
+    <state x="2658" y="156" key="Github.UntrackedFilesDialog" timestamp="1596791661286">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state x="2658" y="156" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596791661286" />
+    <state width="1877" height="359" key="GridCell.Tab.0.bottom" timestamp="1596797356879">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
     <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1877" height="359" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596797356879" />
     <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
     <state width="1397" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
     <state width="908" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
     <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596255274753" />
-    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1596790823084">
+    <state width="1877" height="359" key="GridCell.Tab.0.center" timestamp="1596797356879">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
     <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
-    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1877" height="359" key="GridCell.Tab.0.center/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596797356879" />
     <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
     <state width="1397" height="234" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
     <state width="908" height="204" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
     <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596255274752" />
-    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1596790823084">
+    <state width="1877" height="359" key="GridCell.Tab.0.left" timestamp="1596797356879">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
     <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
-    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1877" height="359" key="GridCell.Tab.0.left/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596797356879" />
     <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
     <state width="1397" height="234" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
     <state width="908" height="204" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869870" />
     <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596255274748" />
-    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1596790823084">
+    <state width="1877" height="359" key="GridCell.Tab.0.right" timestamp="1596797356879">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
     <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
-    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1877" height="359" key="GridCell.Tab.0.right/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596797356879" />
     <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
     <state width="1397" height="234" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
     <state width="908" height="204" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
     <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596255274753" />
-    <state x="2233" y="92" key="SettingsEditor" timestamp="1596791318086">
+    <state x="2233" y="92" key="SettingsEditor" timestamp="1596796843252">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
-    <state x="2233" y="92" key="SettingsEditor/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596791318086" />
+    <state x="2233" y="92" key="SettingsEditor/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596796843252" />
     <state width="968" height="588" key="XDebugger.FullValuePopup" timestamp="1596104603298">
       <screen x="1920" y="-126" width="1920" height="1160" />
     </state>
@@ -241,12 +259,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jd.py</url>
-          <line>92</line>
+          <line>98</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/jd.py</url>
-          <line>91</line>
+          <line>97</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -261,7 +279,7 @@
     <SUITE FILE_PATH="coverage/jdShop$config.coverage" NAME="config Coverage Results" MODIFIED="1596790791929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/jdShop$setupclass.coverage" NAME="setupclass Coverage Results" MODIFIED="1596424196683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/jdShop$test.coverage" NAME="test Coverage Results" MODIFIED="1595833736679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/jdShop$jd__1_.coverage" NAME="jd (1) Coverage Results" MODIFIED="1596785020875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$jd__1_.coverage" NAME="jd (1) Coverage Results" MODIFIED="1596797356873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/jdShop$trace1.coverage" NAME="trace1 Coverage Results" MODIFIED="1596440870033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/jdShop$detect_video__1_.coverage" NAME="detect_video (1) Coverage Results" MODIFIED="1596450071038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
