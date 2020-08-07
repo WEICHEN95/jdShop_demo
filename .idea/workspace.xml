@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b32e45-e8d0-45a7-92c2-62048f39a198" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f9pQRuXpAMeYuK9dzrt7akB0UF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.config">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jdShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_video (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jdShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jdShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\pyProject\jdShop\detect_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jdShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jdShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\pyProject\jdShop\jd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.jd (1)" />
+        <item itemvalue="Python.detect_video (1)" />
+        <item itemvalue="Python.detect_video" />
+        <item itemvalue="Python.jd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68b32e45-e8d0-45a7-92c2-62048f39a198" name="Default Changelist" comment="" />
+      <created>1595640145152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595640145152</updated>
+      <workItem from="1595640146630" duration="28037000" />
+      <workItem from="1595812987978" duration="1791000" />
+      <workItem from="1595833150997" duration="3175000" />
+      <workItem from="1596104362231" duration="1189000" />
+      <workItem from="1596157723814" duration="846000" />
+      <workItem from="1596254754281" duration="2015000" />
+      <workItem from="1596419528519" duration="13539000" />
+      <workItem from="1596440039523" duration="6454000" />
+      <workItem from="1596507531261" duration="292000" />
+      <workItem from="1596771737968" duration="10171000" />
+      <workItem from="1596790996591" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2314" y="389" width="1340" height="645" key="#xdebugger.evaluate" timestamp="1596783284006">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state x="2314" y="389" width="1340" height="645" key="#xdebugger.evaluate/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596783284006" />
+    <state x="238" y="25" width="771" height="630" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738712350" />
+    <state x="2275" y="94" width="1005" height="592" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773064401" />
+    <state x="2917" y="135" width="490" height="568" key="#xdebugger.evaluate/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595672873766" />
+    <state x="396" y="45" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1595648227334" />
+    <state x="2660" y="208" key="FileChooserDialogImpl" timestamp="1596507818789">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state x="2660" y="208" key="FileChooserDialogImpl/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596507818789" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1596790823084">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
+    <state width="1397" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
+    <state width="908" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596255274753" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1596790823084">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
+    <state width="1397" height="234" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
+    <state width="908" height="204" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
+    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596255274752" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1596790823084">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
+    <state width="1397" height="234" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
+    <state width="908" height="204" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869870" />
+    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596255274748" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1596790823084">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680/1920.-126.1920.1160@0.0.1280.680" timestamp="1596419149013" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596790823084" />
+    <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1595738719827" />
+    <state width="1397" height="234" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595773119224" />
+    <state width="908" height="204" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595666869871" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596255274753" />
+    <state x="2233" y="92" key="SettingsEditor" timestamp="1596791318086">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state x="2233" y="92" key="SettingsEditor/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596791318086" />
+    <state width="968" height="588" key="XDebugger.FullValuePopup" timestamp="1596104603298">
+      <screen x="1920" y="-126" width="1920" height="1160" />
+    </state>
+    <state width="968" height="588" key="XDebugger.FullValuePopup/0.0.1280.680/1920.-126.1920.1160@1920.-126.1920.1160" timestamp="1596104603298" />
+    <state x="2303" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1595771368021">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2303" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595771368021" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jd.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/config.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jdShop$config.coverage" NAME="config Coverage Results" MODIFIED="1596790791929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$setupclass.coverage" NAME="setupclass Coverage Results" MODIFIED="1596424196683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$test.coverage" NAME="test Coverage Results" MODIFIED="1595833736679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$jd__1_.coverage" NAME="jd (1) Coverage Results" MODIFIED="1596785020875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$trace1.coverage" NAME="trace1 Coverage Results" MODIFIED="1596440870033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jdShop$detect_video__1_.coverage" NAME="detect_video (1) Coverage Results" MODIFIED="1596450071038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
